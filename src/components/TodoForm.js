@@ -24,6 +24,7 @@ class TodoForm extends React.Component {
           onClick={(e) => {
             e.preventDefault();
             this.props.addTodo(this.state.newTodo);
+            this.setState({newTodo:""})
           }}
         >
 
