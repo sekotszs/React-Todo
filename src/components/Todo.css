@@ -1,0 +1,28 @@
+
+
+
+.strike {text-decoration: line-through;}
+
+body {
+background-color: pink;
+display: flex;
+justify-content: center;
+}
+
+p{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    border-radius: 5px;
+    color:white;
+    background-color:purple;
+    display: flex;
+    justify-content: center;
+}
+
+h2{ color:purple;
+    display: flex;
+    justify-content: center;}
